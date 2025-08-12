@@ -1,5 +1,7 @@
 **Transportation Rental Management System (TRMS)**
 
+**Video Penjelasan:** https://drive.google.com/file/d/1B2DQ1g9mCh6oS8M92G0QSc0TfN0_gDoJ/view?usp=sharing
+
 Projek ini adalah mini aplikasi Sistem Informasi Rental Kendaraan yang dibuat menggunakan basic Python function.
 Projek ini bertujuan supaya kita bisa latihan CRUD (Create, Read, Update, Delete) + tambahan fitur Rent & Return seperti sistem rental pada umumnya.
 
